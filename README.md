@@ -100,7 +100,7 @@ MIT License
 
 ## Known Issues / TODO
 
-* `log.Printf` causes display corruption — should be replaced with a non-blocking logging option
+* `log.Printf` causes display corruption ( should be replaced with a non-blocking logging option )
 * Add undo/redo stack for edits
 * Add scroll indicators when table exceeds screen size
 * Improve resize behavior for small terminal windows
@@ -112,7 +112,7 @@ MIT License
 
 ---
 
-Open to collaborate — feel free to fork and work on it.
+Open to collaborate, feel free to fork and work on it.
 
 
 
