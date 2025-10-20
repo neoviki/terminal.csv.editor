@@ -1,0 +1,26 @@
+Nr,List
+1,Add ctrl + z option to undo
+2,In editmode by default select all content ( for easy delete )
+3,in edit mode ctrl + z brings back old content
+4,"create multiple versions of the save file keep a version pointer if ctrl z move to the prev version ctrl y move to the next version. from that version keep building new saves and track. ideally multiole files. at the end of the app exit, delete all version files. even during startup delete version files ( or use a tracker to track versions."
+5,or have a list of versions files random numbers and make the version persistent only till the prev
+6,"or keep only 2 files prev version current version if ctrl z move to prev version, thats all no ctrl + y ( re do again ). if we have multiple prev version it leads to errors ( so only one prev version )"
+7,Add option to append row insert row. This is not there yet.
+8,If I press enter add a new row below the selected cell
+9,If I press tab add a new column after the selected cell
+10,If I press h key - list commands 
+11,Key s: sum all the previous rows in the column ( if no numeric skip the cell thats all and count ) 
+12,Key m: multiply all cell ( if no numeric skip )
+13,Always last line in the row is edit command ( fixed - Don;´t show last column)
+14,Always show last row and last column first second third ... last ( likewise both row annd col ) by pressing arrow keys the column/row  should slide
+15,"Key 1: series make a series from the available numbers 1,2,3 ( useful for indexes ). if a non numeric char already exist skip updating the cell however count the cell too and the next cell is the increment including the non numeric cell "
+16,in the bottom command mode show the operation. and ask confirmation ( fill series etc )
+17,h: help
+18,h: help page scrollable
+19,help page is another csv file help search from the installed location
+20,Add search functionality in spreadsheet - / to search
+21,add shortcut to increase and decrease the width of the selected col (+/-). also save the update to config file
+22,search is easy all the hit cells display in a popup page that all
+23,when I do search list search
+24,in first column if I press r: reindex
+25,"If frist column is called Nr or # or Index, if I add a row increment from previous number ( if previous number is char use colmn number )"
