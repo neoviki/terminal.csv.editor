@@ -112,6 +112,22 @@ MIT License
 
 ---
 
+## Note on Project and Application Naming Convention
+
+I use **dot-separated names** for projects and applications (e.g., `terminal.csv.editor`) to make each project’s purpose immediately clear. With over 40 projects - many of which I use regularly - this naming system helps me **quickly use applications without forgetting their names**, and **easily track, remember, and understand what each project does** without even opening it.
+
+I specifically chose **dots (`.`)** instead of underscores (`_`), hyphens (`-`), or PascalCase because:
+
+* Underscores require **Shift** to type on most keyboards, which is slower.
+* Hyphens are **not consistently accepted in file naming** on all systems, and their key position is farther from the base row than the dot key.
+* With Linux terminal auto-complete, using dots makes it easier to find and run applications - for example, typing `linux.<Tab>` quickly lists all applications starting with “linux.”
+* Dots are **widely supported across major operating systems** (Linux, macOS, and Windows) and are easy to type.
+* This makes naming simple, consistent, and cross-platform friendly (I rarely use Windows).
+
+This approach is based on **my personal experience and workflow over many years**. It has proven efficient and intuitive for me, though preferences may vary among developers - it is simply the convention that works best in my environment.
+
+---
+
 Open to collaborate, feel free to fork and work on it.
 
 
