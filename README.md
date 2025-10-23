@@ -85,7 +85,7 @@ If the config file is missing or corrupted, it is automatically regenerated.
 
 ## Status
 
- * This project is **experimental**.
+ * This project is **fully functional** and currently used in my regular work. If you would like to contribute or add new features, feel free to fork the repository and submit a pull request.
  * Currently tested only on **Ubuntu Linux (terminal mode)**.
  * Expect occasional layout or redraw issues in smaller terminals.
  * Logging with `log.Printf` can distort layout during runtime (known observation).
