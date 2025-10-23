@@ -1,6 +1,6 @@
 # csvgo: terminal csv editor
 
-**csvgo** is an **experimental terminal-based CSV editor** built in **Go**, tested on **Ubuntu Linux**.
+**csvgo** is a **terminal-based CSV editor** built in **Go**, tested on **Ubuntu Linux**.
 It provides a simple spreadsheet-like interface for viewing and editing CSV files directly in the terminal.
 The UI is based on [`tview`](https://github.com/rivo/tview) and [`tcell`](https://github.com/gdamore/tcell).
 
